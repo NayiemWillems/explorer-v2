@@ -27,7 +27,7 @@
     "qreditjs": "git+https://github.com/Qredit/qredit-js.git",
     "request": "^2.88.0",
     "server": "^1.0.27",
-    "socket.io": "^2.2.0",
+    "socket.io": "^2.4.0",
     "sqlite3": "^4.1.1",
     "twig": "~0.10.3",
     "utf-8-validate": "^5.0.2",
